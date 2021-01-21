@@ -1,0 +1,10 @@
+{
+    "test": {
+      "title": "A blog post",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper est quis nisl porta, dignissim tristique augue tristique. Vestibulum vestibulum sollicitudin tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean ac ligula maximus, sollicitudin lorem id, fermentum tortor. Nullam finibus metus lorem. Praesent fringilla, nisl at sodales elementum, ipsum leo tincidunt nunc, in rutrum erat ligula a libero. Aenean euismod quis mi a vehicula. Phasellus quis magna hendrerit, bibendum nisl et, lacinia neque."
+    },
+    "second": {
+      "title": "Another blog post",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi semper est quis nisl porta, dignissim tristique augue tristique. Vestibulum vestibulum sollicitudin tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean ac ligula maximus, sollicitudin lorem id, fermentum tortor. Nullam finibus metus lorem. Praesent fringilla, nisl at sodales elementum, ipsum leo tincidunt nunc, in rutrum erat ligula a libero. Aenean euismod quis mi a vehicula. Phasellus quis magna hendrerit, bibendum nisl et, lacinia neque."
+    }
+}
